@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store # Để bỏ qua file .DS_Store nếu nó xuất hiện ở thư mục gốc
+Thumbs.db # Cho Windows
+
+# IDE / Editor specific files (nếu bạn mở toàn bộ project 'dacn' bằng IDE)
+.idea/    # Cho JetBrains IDEs (PyCharm, IntelliJ, WebStorm)
+.vscode/  # Cho VS Code (CÂN NHẮC: có thể bạn muốn chia sẻ một số cài đặt chung như
+          # .vscode/settings.json hoặc .vscode/extensions.json. Nếu vậy,
+          # chỉ ignore các file/thư mục cụ thể hơn trong .vscode như .vscode/User/)
+
+# Môi trường ảo chung (nếu bạn tạo môi trường ảo ở thư mục gốc cho cả project)
+# venv/
+# .venv/
+# env/
+
+# File .env chung (nếu có)
+.env

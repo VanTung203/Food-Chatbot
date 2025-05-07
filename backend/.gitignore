@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual Environment (chọn tên bạn dùng)
+venv/
+.venv/
+env/
+
+# Logs
+chat_logs.json # Nếu là file log động
+
+# Data (cân nhắc kỹ)
+users.json # Nếu nhạy cảm hoặc dữ liệu động
+test.json  # Nếu là output hoặc file lớn
+train.json # Nếu là output hoặc file lớn
+
+# Environment variables
+.env
+
+# IDE/Editor specific (ví dụ)
+.idea/
+# .vscode/

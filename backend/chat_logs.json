@@ -1,0 +1,380 @@
+[
+  {
+    "timestamp": "2025-04-21T22:20:13.714746",
+    "username": "unknown",
+    "message": "alo",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-21T22:20:20.848480",
+    "username": "unknown",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật"
+  },
+  {
+    "timestamp": "2025-04-21T22:20:35.278688",
+    "username": "unknown",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát"
+  },
+  {
+    "timestamp": "2025-04-21T22:28:14.133587",
+    "username": "user1",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát"
+  },
+  {
+    "timestamp": "2025-04-21T22:36:29.954195",
+    "username": "user1",
+    "message": "tôi có thịt bò và ớt",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-21T22:36:57.507786",
+    "username": "user2",
+    "message": "tôi có thịt dê và cà chua",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-21T23:33:20.840379",
+    "username": "user1",
+    "message": "Tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát"
+  },
+  {
+    "timestamp": "2025-04-21T23:34:02.600960",
+    "username": "user1",
+    "message": "Tôi có thịt gà và ớt",
+    "response": "🔍 Món phù hợp (ID: 18198) thuộc ẩm thực Ấn Độ.\nNguyên liệu: Gà, Garam Masala, tỏi, ớt, thịt gà, Đường nâu, thịt, rau mùi mặt đất, hành tây, Cumin mặt đất, Cà chua, Khoai tây, Chân, ghee, tiêu, rau, Gừng, nước ép, rau mùi"
+  },
+  {
+    "timestamp": "2025-04-21T23:45:10.785700",
+    "username": "unknown",
+    "message": "tôi có beef, curry",
+    "response": "🔍 Món phù hợp (ID: 3535) thuộc ẩm thực Jamaica.\nNguyên liệu: bánh mì vụn, bơ không ướp muối, Bột hành, cà ri, nước dùng thịt bò natri, Nước sốt Pickapeppa, Bột cà ri, lá nguyệt quế, tỏi, Hạt tiêu cayenne, Nước lạnh, hạt tiêu, Trứng lớn, Dầu ô liu ngoại vi, Hành tây vàng, tiêu, Giấm trắng, muối kosher, Thyme tươi, Sốt Worrouershire, Bột đa năng, thịt bò xay"
+  },
+  {
+    "timestamp": "2025-04-21T23:45:19.134317",
+    "username": "unknown",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát"
+  },
+  {
+    "timestamp": "2025-04-27T20:43:39.843037",
+    "username": "user1",
+    "message": "tôi có tomato",
+    "response": "🔍 Món phù hợp (ID: 10259) thuộc ẩm thực Hy Lạp.\nNguyên liệu: Xà lách Romaine, Ô liu đen, cà chua nho, tỏi, hạt tiêu, Hành tím, gia vị, Đậu Garbanzo, Feta Cheese Crumbled"
+  },
+  {
+    "timestamp": "2025-04-27T20:43:55.763636",
+    "username": "user1",
+    "message": "I have eggs",
+    "response": "🔍 Món phù hợp (ID: 26625) thuộc ẩm thực Ý.\nNguyên liệu: Nước, trứng, bông cải xanh đông lạnh, cạo phô mai parmesan, Liên kết xúc xích Ý nhẹ Johnsonville, húng quế"
+  },
+  {
+    "timestamp": "2025-04-27T21:34:47.310628",
+    "username": "user1",
+    "message": "tôi có thịt heo",
+    "response": "🔍 Món phù hợp (ID: 17732) thuộc ẩm thực russian.\nNguyên liệu: xương sườn cần tây, Gelatin, Cà rốt, Hạt tiêu, con lợn, muối, Thịt gà tây tối, thịt lợn, bê, lá nguyệt quế, canh, tiêu đen, tép tỏi, hành tây"
+  },
+  {
+    "timestamp": "2025-04-27T21:42:06.389964",
+    "username": "user1",
+    "message": "tôi có thịt bò",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:42:27.010323",
+    "username": "user1",
+    "message": "beef",
+    "response": "🔍 Món phù hợp (ID: 3535) thuộc ẩm thực Jamaica.\nNguyên liệu: bánh mì vụn, bơ không ướp muối, Bột hành, cà ri, nước dùng thịt bò natri, Nước sốt Pickapeppa, Bột cà ri, lá nguyệt quế, tỏi, Hạt tiêu cayenne, Nước lạnh, hạt tiêu, Trứng lớn, Dầu ô liu ngoại vi, Hành tây vàng, tiêu, Giấm trắng, muối kosher, Thyme tươi, Sốt Worrouershire, Bột đa năng, thịt bò xay"
+  },
+  {
+    "timestamp": "2025-04-27T21:43:15.112303",
+    "username": "user1",
+    "message": "tôi có beef",
+    "response": "🔍 Món phù hợp (ID: 3535) thuộc ẩm thực Jamaica.\nNguyên liệu: bánh mì vụn, bơ không ướp muối, Bột hành, cà ri, nước dùng thịt bò natri, Nước sốt Pickapeppa, Bột cà ri, lá nguyệt quế, tỏi, Hạt tiêu cayenne, Nước lạnh, hạt tiêu, Trứng lớn, Dầu ô liu ngoại vi, Hành tây vàng, tiêu, Giấm trắng, muối kosher, Thyme tươi, Sốt Worrouershire, Bột đa năng, thịt bò xay"
+  },
+  {
+    "timestamp": "2025-04-27T21:43:27.365114",
+    "username": "user1",
+    "message": "tôi có bò",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:43:32.338127",
+    "username": "user1",
+    "message": "thịt bò ",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:43:36.758839",
+    "username": "user1",
+    "message": "thịt bò xay",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:44:01.410029",
+    "username": "user1",
+    "message": "tôi có thịt gà",
+    "response": "🔍 Món phù hợp (ID: 6115) thuộc ẩm thực Mexico.\nNguyên liệu: Nước dùng gà, húng quế khô, muối, Tôm nấu chín, Cumin mặt đất, đường, Cà chua thái hạt lựu, Crabmeat, oregano khô, Chile xanh, Bột bánh tortillas, Bột đa năng, hành tây, hạt tiêu, tỏi, kem chua, Phô mai monterey jack cắt nhỏ"
+  },
+  {
+    "timestamp": "2025-04-27T21:51:02.067147",
+    "username": "user1",
+    "message": "tôi có cánh gà",
+    "response": "🔍 Món phù hợp (ID: 14970) thuộc ẩm thực Hàn Quốc.\nNguyên liệu: Nước tương, Gừng, Dầu cải dầu, bột mì, Giấm gạo, Mật ong, tỏi, Cánh gà, Dầu mè, Tinh bột ngô"
+  },
+  {
+    "timestamp": "2025-04-27T21:51:13.350867",
+    "username": "user1",
+    "message": "tôi có thịt sườn",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:51:21.962645",
+    "username": "user1",
+    "message": "tôi có đùi gà",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T21:54:45.535346",
+    "username": "user1",
+    "message": "tôi có mì ",
+    "response": "🔍 Món phù hợp (ID: 13121) thuộc ẩm thực Thái Lan.\nNguyên liệu: Thịt lợn thăn, Đậu phộng rang, Trò chơi rau mùi xắt nhỏ, Nước sốt Hoisin, Bơ đậu phộng kem, Bắt bạc hà tươi, Basil Thái, cơm, Tôm trung bình, Nước, mì gạo, Đậu"
+  },
+  {
+    "timestamp": "2025-04-27T21:55:02.261658",
+    "username": "user1",
+    "message": "tôi có bún",
+    "response": "🔍 Món phù hợp (ID: 13121) thuộc ẩm thực Thái Lan.\nNguyên liệu: Thịt lợn thăn, Đậu phộng rang, Trò chơi rau mùi xắt nhỏ, Nước sốt Hoisin, Bơ đậu phộng kem, Bắt bạc hà tươi, Basil Thái, cơm, Tôm trung bình, Nước, mì gạo, Đậu"
+  },
+  {
+    "timestamp": "2025-04-27T21:55:14.785415",
+    "username": "user1",
+    "message": "tôi có phở",
+    "response": "🔍 Món phù hợp (ID: 1128) thuộc ẩm thực Ý.\nNguyên liệu: Lá cải xoăn, Súp phở gà, Đậu Cannellini"
+  },
+  {
+    "timestamp": "2025-04-27T21:55:54.174754",
+    "username": "user1",
+    "message": "tôi có táo và nho",
+    "response": "🔍 Món phù hợp (ID: 29703) thuộc ẩm thực brazilian.\nNguyên liệu: Nước chanh, quả dưa chuột, kiwi, khối băng, Pisco, bộ nhớ cachaca, rượu vang trắng, nho xanh, rượu mùi, lá cây xô thơm, Táo, nước soda"
+  },
+  {
+    "timestamp": "2025-04-27T21:56:27.329966",
+    "username": "user1",
+    "message": "tôi có cà chua",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây"
+  },
+  {
+    "timestamp": "2025-04-27T22:08:37.354260",
+    "username": "user1",
+    "message": "tôi có thịt bò",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T22:18:25.023336",
+    "username": "user1",
+    "message": "tôi có thịt bò và ớt",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T22:18:42.223631",
+    "username": "user1",
+    "message": "tôi có ớt",
+    "response": "🔍 Món phù hợp (ID: 20591) thuộc ẩm thực Jamaica.\nNguyên liệu: Cổ phần, Bột cà ri, Hạt tiêu đen nứt, Thịt bò băm nhỏ, hành tây, bột mì đơn giản, bánh mì vụn, bơ, tỏi, cần tây, Nước lạnh, TUMERIC, Thyme khô, Gừng, dầu, Cà chua, Nước, Paprika, muối, ớt"
+  },
+  {
+    "timestamp": "2025-04-27T22:18:53.411833",
+    "username": "user1",
+    "message": "tôi có gừng",
+    "response": "🔍 Món phù hợp (ID: 6602) thuộc ẩm thực Jamaica.\nNguyên liệu: bột mì đơn giản, đường, bơ, trứng, rễ gừng tươi, muối, quế xay, sữa, Chiết xuất vani, Gừng xay, Đường bột, Bột nở"
+  },
+  {
+    "timestamp": "2025-04-27T22:18:58.735040",
+    "username": "user1",
+    "message": "tôi có sa tế",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập."
+  },
+  {
+    "timestamp": "2025-04-27T22:19:04.159160",
+    "username": "user1",
+    "message": "tôi có tiêu",
+    "response": "🔍 Món phù hợp (ID: 10259) thuộc ẩm thực Hy Lạp.\nNguyên liệu: Xà lách Romaine, Ô liu đen, cà chua nho, tỏi, hạt tiêu, Hành tím, gia vị, Đậu Garbanzo, Feta Cheese Crumbled"
+  },
+  {
+    "timestamp": "2025-04-27T22:36:59.786128",
+    "username": "user1",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T22:44:30.212608",
+    "username": "user1",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T22:45:33.193588",
+    "username": "user1",
+    "message": "tôi có thịt gà",
+    "response": "🔍 Món phù hợp (ID: 6115) thuộc ẩm thực Mexico.\nNguyên liệu: Nước dùng gà, húng quế khô, muối, Tôm nấu chín, Cumin mặt đất, đường, Cà chua thái hạt lựu, Crabmeat, oregano khô, Chile xanh, Bột bánh tortillas, Bột đa năng, hành tây, hạt tiêu, tỏi, kem chua, Phô mai monterey jack cắt nhỏ",
+    "dish_id": 6115
+  },
+  {
+    "timestamp": "2025-04-27T22:48:03.844372",
+    "username": "user1",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát"
+  },
+  {
+    "timestamp": "2025-04-27T22:59:37.644202",
+    "username": "user1",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát",
+    "dish_id": 41824
+  },
+  {
+    "timestamp": "2025-04-27T23:02:16.907940",
+    "username": "user2",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:02:30.001448",
+    "username": "user2",
+    "message": "tôi có cà chua",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây",
+    "dish_id": 18611
+  },
+  {
+    "timestamp": "2025-04-27T23:02:41.676108",
+    "username": "user2",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát",
+    "dish_id": 41824
+  },
+  {
+    "timestamp": "2025-04-27T23:02:47.397572",
+    "username": "user2",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:03:04.096225",
+    "username": "user3",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:03:13.871707",
+    "username": "user3",
+    "message": "tôi có cà chua",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây",
+    "dish_id": 18611
+  },
+  {
+    "timestamp": "2025-04-27T23:03:25.733620",
+    "username": "user3",
+    "message": "tôi có trứng và cà chua",
+    "response": "🔍 Món phù hợp (ID: 41824) thuộc ẩm thực Mexico.\nNguyên liệu: trứng, Dầu ô liu, Cheese, salsa, hành tây, Bơ, muối kosher, Hurst Family Harvest Chipotle Lime Black Bean Soup, tỏi, kem chua, Nước dùng gà, Xịt nấu ăn miễn phí gluten, Dầu thực vật, Lá rau mùi, Cà chua nướng, bánh ngô không chứa gluten, tiêu đen, Chipotle xay nhuyễn, ớt xanh, hành lá cắt lát",
+    "dish_id": 41824
+  },
+  {
+    "timestamp": "2025-04-27T23:03:45.628778",
+    "username": "user3",
+    "message": "tôi có thịt dê",
+    "response": "🔍 Món phù hợp (ID: 31860) thuộc ẩm thực Ý.\nNguyên liệu: Hạt cây thì là, Nước, mì lasagna, Thyme tươi băm nhỏ, Phô mai dê, Tôm lớn, Phô mai, Phô mai mozzarella một phần, Nấm, Bột đa năng, Nước chanh tươi, Muối cần tây, Thịt cua cục, Phô mai Parmesan tươi, Rượu vang trắng khô, hành tây xắt nhỏ, rau mùi tây phẳng, húng quế tươi, Dầu ô liu, Nấu ăn, 1% sữa ít béo, tép tỏi",
+    "dish_id": 31860
+  },
+  {
+    "timestamp": "2025-04-27T23:03:56.769621",
+    "username": "user3",
+    "message": "tôi có cánh gà",
+    "response": "🔍 Món phù hợp (ID: 14970) thuộc ẩm thực Hàn Quốc.\nNguyên liệu: Nước tương, Gừng, Dầu cải dầu, bột mì, Giấm gạo, Mật ong, tỏi, Cánh gà, Dầu mè, Tinh bột ngô",
+    "dish_id": 14970
+  },
+  {
+    "timestamp": "2025-04-27T23:06:38.510400",
+    "username": "user1",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:06:49.049290",
+    "username": "user1",
+    "message": "18611",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập.",
+    "dish_id": null
+  },
+  {
+    "timestamp": "2025-04-27T23:07:51.480968",
+    "username": "user1",
+    "message": "tôi có ingredients và fresh lime juice",
+    "response": "😥 Không tìm thấy món nào phù hợp với nguyên liệu bạn nhập.",
+    "dish_id": null
+  },
+  {
+    "timestamp": "2025-04-27T23:08:26.151397",
+    "username": "user1",
+    "message": "cooked chicken và cilantro leaves",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây",
+    "dish_id": 18611
+  },
+  {
+    "timestamp": "2025-04-27T23:13:45.475589",
+    "username": "user1",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:14:22.807538",
+    "username": "user1",
+    "message": "tôi có cà chua",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây",
+    "dish_id": 18611
+  },
+  {
+    "timestamp": "2025-04-27T23:14:42.077508",
+    "username": "user2",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:39:56.271542",
+    "username": "user2",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:49:27.270026",
+    "username": "user1",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  },
+  {
+    "timestamp": "2025-04-27T23:49:39.984855",
+    "username": "user1",
+    "message": "tôi có cà chua",
+    "response": "🔍 Món phù hợp (ID: 18611) thuộc ẩm thực Mexico.\nNguyên liệu: Gà nấu chín, Lá rau mùi, Nước cốt chanh tươi, cà chua gọt vỏ toàn bộ, Muối thô, kem chua, Dầu cải dầu, Jalapeno ớt, tỏi, Tortillas ngô, Phô mai monterey jack cắt nhỏ, Jalapenos ngâm, Chili Powder, hạt tiêu mới xay, hành tây",
+    "dish_id": 18611
+  },
+  {
+    "timestamp": "2025-04-27T23:50:07.276402",
+    "username": "user2",
+    "message": "tôi có trứng",
+    "response": "🔍 Món phù hợp (ID: 25693) thuộc ẩm thực Mỹ miền Nam.\nNguyên liệu: bột mì đơn giản, tiêu đất, muối, Cà chua, tiêu đen, Thyme, trứng, Cà chua xanh, Bữa ăn ngô vàng, sữa, Dầu thực vật",
+    "dish_id": 25693
+  }
+]
