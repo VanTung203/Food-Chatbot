@@ -121,8 +121,8 @@ Nếu bạn có ý tưởng hoặc muốn đóng góp, vui lòng tạo một "Is
 
 ## Tác giả
 
-*   [Tên Của Bạn/Nhóm Của Bạn] - [Email hoặc Link GitHub cá nhân nếu muốn]
+*   [Văn Phú Tùng] - [phutung06@gmail.com]
 
 ## License
 
-Dự án này được cấp phép theo Giấy phép MIT - xem file [LICENSE.md](LICENSE.md) (bạn cần tạo file này) để biết chi tiết.
+Dự án này được cấp phép theo Giấy phép MIT - xem file [LICENSE.md](LICENSE.md)
